@@ -1,4 +1,4 @@
-bh2014
+Blackhat 2014
 ======
 
-Built binaries for BH 2014 workshop
+Built binaries for BH2014 Digging for Sandbox Escapes workshop.
